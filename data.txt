@@ -1,0 +1,12 @@
+GEN
+bg=#2E3436
+tx=#FFFFFF
+ms=Welcome Back
+lr=left
+js=True
+br=,
+CATS
+Social Media/Wasting Time:Facebook , www.facebook.com ; Reddit , www.reddit.com ; YouTube , www.youtube.com
+Webcomics:XKCD (MON/WED/FRI) , www.xkcd.com ; Bug Martini (MON - FRI) , www.bugmartini.com; C and H (Everyday) , www.explosm.net ; Cubedrone (TUE/THU) , www.cube-drone.com
+Uni/Work:Github , www.github.com/Delagon ; Delagon.xyz , www.delagon.xyz ; Uni , sharepoint.gla.ac.uk
+Other: Search , www.duckduckgo.com
